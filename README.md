@@ -16,16 +16,16 @@ This application aims to provide a digital solution for managing books within a 
 
 ## Features
 
-**1. Book Management:** The application allows for the management of book details, including ISBN, title, author, genre, and availability status
-**2. Search Functionality:** users can search for books by ISBN, title, author, or genre. The search is case-insensitive and supports partial matches.
-**3. Borrowing and Returning Books:** The application tracks the availability status of books, allowing for the borrowing and returning of books.
-**4. Staff-specific Functionality:** Staff members have access to additional functionalities, such as adding and removing books from the catalog and printing the book catalog.
+- **1. Book Management:** The application allows for the management of book details, including ISBN, title, author, genre, and availability status
+- **2. Search Functionality:** users can search for books by ISBN, title, author, or genre. The search is case-insensitive and supports partial matches.
+- **3. Borrowing and Returning Books:** The application tracks the availability status of books, allowing for the borrowing and returning of books.
+- **4. Staff-specific Functionality:** Staff members have access to additional functionalities, such as adding and removing books from the catalog and printing the book catalog.
 
 
 ## Key Components
 
-**1. Book Class:** Book class in book.py defines the structure of a book, including its ISBN, title, author, genre, and availability status. It also provides methods for borrowing and returning books, as well as getter methods for accessing the book's properties.
-**2. library_app.py:** Includes functions for loading books, displaying menus, handling user input, and executing actions based on user selections. It also implements the staff-specific menu for additional functionality.
+- **1. Book Class:** Book class in book.py defines the structure of a book, including its ISBN, title, author, genre, and availability status. It also provides methods for borrowing and returning books, as well as getter methods for accessing the book's properties.
+- **2. library_app.py:** Includes functions for loading books, displaying menus, handling user input, and executing actions based on user selections. It also implements the staff-specific menu for additional functionality.
 
 
 ## Getting Started
