@@ -1,14 +1,13 @@
-**Notes**
-_This repository is adapted from the original private repository of the project, created by @jasjot190 and owned by OOPMasters7 members, including:
-- Naz Zaamout
-- Jasjot Singh
-- Abrarahemad Mohmediqbal Balashaikh
-- Nguyen Phuong Uyen Tran_
-
 # Reader's Guild Library Management Application
 
 Welcome to the Reader's Guild Library Management Application, a humble system designed to streamline the process of managing books within a library. This application is built with Python and is structured around two core componenets: the **book.py** file, which defines the Book class and its associated methods, and the **library_app.py** file, which serves as the main appication and logic.
 
+## Notes
+This repository is modified and adapted from the original private repository of the project jasjot190/Library_app, created by @jasjot190 and owned by OOPMasters7 members, including:
+- Naz Zaamout
+- Jasjot Singh
+- Abrarahemad Mohmediqbal Balashaikh
+- Nguyen Phuong Uyen Tran
 
 ## Overview
 
